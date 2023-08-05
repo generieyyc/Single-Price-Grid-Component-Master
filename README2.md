@@ -34,8 +34,8 @@ To be added
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://generieyyc.github.io/Single-Price-Grid-Component-Master/))
+- Solution URL: [https://github.com/generieyyc/Single-Price-Grid-Component-Master.git)]
+- Live Site URL: [(https://generieyyc.github.io/Single-Price-Grid-Component-Master/)]
 
 ## My process
 
